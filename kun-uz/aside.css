@@ -1,0 +1,15 @@
+aside {
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-top: 0;
+    width: 38%;
+    height: 1200px;
+    /* border: 2px solid red; */
+    float: right;
+}
+aside h1[h1] {
+    font-size: 36px;
+}
+aside h1 {
+    text-align: center;
+}

@@ -1,0 +1,87 @@
+
+@media  only  screen and (min-width:1200px) {
+    /* Navbar */
+    .navbar1 {
+        width: 100%;
+        text-align: center;
+        vertical-align: middle;
+        /* border: 1px solid grey; */
+        height: 2.8rem;
+        position: relative;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    /* Kun Uz logosi */
+    #logo-kunuz {
+        position: absolute;
+        left: -9px;
+        height: 3rem;
+        width: 6rem;
+        /* background: darkblue; */
+    }
+    /* Qidiruv tugmasi */
+    #btn {
+        position: absolute;
+        border-radius: 50%;
+        background: white;
+        right: 0;
+        border: none;
+        width: 6rem;
+        height: 1.8rem;
+    }
+    /* Qidiruv tugmasi ichidagi input */
+    #btn #search {
+        border: none;
+        cursor: pointer;
+        box-shadow: 0 0.5px 5px 0.3px black;
+        border-radius: 1.8rem;
+        width: 100%;
+        height: 100%;
+        /* vertical-align: middle; */
+    }
+    /* Tilni tanlash containeri */
+    #choose {
+        position: absolute;
+        right: 7.6rem;
+        border-radius: 1.8rem;
+    }
+    #choose:active {
+        box-shadow: 0 0 5px 1px silver;
+    }
+    /* Til containeri ichidagi SELECT elementi */
+    #choose #lang {
+        border-radius: 1.8rem;
+        cursor: pointer;
+        height: 1.2rem;
+        width: 3.1rem;
+    }
+    /* Markazdagi tugmalar containeri */
+    #btns-link {
+        position: absolute;
+        /* margin-left: -30px; */
+        left: 7.6rem;
+    }
+    /* Markazdagi tugmalar */
+    #btns-link a button {
+        background: none;
+        border: none;
+        text-align: center;
+        cursor: pointer;
+        font-size: 1rem;
+        padding: 0;
+        width: 6.5rem;
+        height: 1.8rem;
+        font-weight: 800;
+    }
+    #btns-link #specbtn button {
+        font-weight: 900;
+        width: 8rem;
+        /* font-size: 12px; */
+    }
+    #btns-link a button:active {
+        box-shadow: 0 0 2px 2px silver;
+        /* background: rgba(184, 232, 255, 0.87); */
+    }
+}
+    

@@ -1,0 +1,311 @@
+section.asosiy_qism {
+    position: relative;
+    width: 59.5%;
+    height: 1200px;
+    float: left;
+}
+.asosiy_qism .first-message {
+    width: 100%;
+    height: 400px;
+    background: rgb(190, 245, 255);
+    border: 0.7px solid grey;
+    border-right: 2px solid white;
+    position: relative;
+    /* text-align: center; */
+}
+.asosiy_qism .first-message .img1 {
+    position: relative;
+    width: 60%;
+    height: 100%;
+    /* float: left; */
+    display: inline-block;
+}
+
+.asosiy_qism .first-message .img1 img {
+    position: relative;
+    width: 98%;
+    height: 100%;
+    /* opacity: 0.7; */
+}
+.asosiy_qism .first-message .heading1 {
+    position: relative;
+    width: 39%;
+    height: 100%;
+    display: inline-block;
+    /* float: right; */
+    font-weight: 900;
+    /* text-align: center; */
+    vertical-align: top;
+    /* margin: 0 auto; */
+}
+.asosiy_qism .first-message .heading1 h1, h3 {
+    text-align: center;
+}
+
+
+.asosiy_qism .second-message {
+    margin-top: 30px;
+    width: 49%;
+    float: left;
+    height: 154px;
+    position: relative;
+}
+.asosiy_qism .second-message .img2 {
+    width: 48%;
+    height: 100%;
+    float: left;
+}
+.asosiy_qism .second-message .img2 img {
+    width: 100%;
+    height: 100%;
+}
+
+.asosiy_qism .second-message .heading2 {
+    float: right;
+    /* padding: 5px; */
+    border-bottom: 0.8px solid black;
+    /* vertical-align: top; */
+    text-align: center;
+    width: 50%;
+    height: 100%;
+    overflow: auto;
+}
+.asosiy_qism .second-message .heading2 a {
+    text-decoration: none;
+    color: black;
+    vertical-align: top;
+}
+
+.asosiy_qism .third-message {
+    margin-top: 30px;
+    width: 49%;
+    height: 154px;
+    float: right;
+    position: relative;
+}
+.asosiy_qism .third-message .img3 {
+    width: 48%;
+    height: 100%;
+    float: left;
+}
+.asosiy_qism .third-message .img3 img {
+    width: 100%;
+    height: 100%;
+}
+
+.asosiy_qism .third-message .heading3 {
+    float: right;
+    /* padding: 5px; */
+    border-bottom: 0.8px solid black;
+    /* vertical-align: top; */
+    text-align: center;
+    overflow: auto;
+    width: 50%;
+    height: 100%;
+}
+.asosiy_qism .third-message .heading3 a {
+    text-decoration: none;
+    color: black;
+    vertical-align: top;
+}
+
+
+
+.asosiy_qism .fourth-message {
+    margin-top: 30px;
+    width: 48%;
+    height: 154px;
+    float: left;
+    position: relative;
+}
+.asosiy_qism .fourth-message .img4 {
+    width: 48%;
+    height: 100%;
+    float: left;
+}
+.asosiy_qism .fourth-message .img4 video {
+    width: 100%;
+    height: 100%;
+}
+
+.asosiy_qism .fourth-message .heading4 {
+    float: right;
+    /* padding: 5px; */
+    border-bottom: 0.8px solid black;
+    /* vertical-align: top; */
+    text-align: center;
+    width: 50%;
+    height: 100%;
+    overflow: auto;
+}
+.asosiy_qism .fourth-message .heading4 a {
+    text-decoration: none;
+    color: black;
+    vertical-align: top;
+}
+
+
+.asosiy_qism .fifth-message {
+    margin-top: 30px;
+    width: 48%;
+    height: 154px;
+    float: right;
+    position: relative;
+}
+.asosiy_qism .fifth-message .img5 {
+    width: 48%;
+    height: 100%;
+    float: left;
+}
+.asosiy_qism .fifth-message .img5 img {
+    width: 100%;
+    height: 100%;
+}
+
+.asosiy_qism .fifth-message .heading5 {
+    float: right;
+    /* padding: 5px; */
+    border-bottom: 0.8px solid black;
+    /* vertical-align: top; */
+    text-align: center;
+    width: 50%;
+    height: 100%;
+    overflow: auto;
+}
+.asosiy_qism .fifth-message .heading5 a {
+    text-decoration: none;
+    color: black;
+    vertical-align: top;
+}
+
+.asosiy_qism .sixth-message {
+    margin-top: 30px;
+    width: 48%;
+    height: 154px;
+    float: right;
+    position: relative;
+}
+.asosiy_qism .sixth-message .img6 {
+    width: 48%;
+    height: 100%;
+    float: left;
+}
+.asosiy_qism .sixth-message .img6 video {
+    width: 100%;
+    height: 100%;
+}
+
+.asosiy_qism .sixth-message .heading6 {
+    float: right;
+    /* padding: 5px; */
+    border-bottom: 0.8px solid black;
+    /* vertical-align: top; */
+    text-align: center;
+    width: 50%;
+    height: 100%;
+    overflow: auto;
+}
+.asosiy_qism .sixth-message .heading6 a {
+    text-decoration: none;
+    color: black;
+    vertical-align: top;
+}
+
+.asosiy_qism .seventh-message {
+    margin-top: 30px;
+    width: 48%;
+    height: 154px;
+    float: left;
+    position: relative;
+}
+.asosiy_qism .seventh-message .img7 {
+    width: 48%;
+    height: 100%;
+    float: left;
+}
+.asosiy_qism .seventh-message .img7 img {
+    width: 100%;
+    height: 100%;
+}
+
+.asosiy_qism .seventh-message .heading7 {
+    float: right;
+    /* padding: 5px; */
+    border-bottom: 0.8px solid black;
+    /* vertical-align: top; */
+    text-align: center;
+    width: 50%;
+    height: 100%;
+    overflow: auto;
+}
+.asosiy_qism .seventh-message .heading7 a {
+    text-decoration: none;
+    color: black;
+    vertical-align: top;
+}
+
+.asosiy_qism .eightth-message {
+    margin-top: 30px;
+    width: 48%;
+    height: 154px;
+    float: left;
+    position: relative;
+}
+.asosiy_qism .eightth-message .img8 {
+    width: 48%;
+    height: 100%;
+    float: left;
+}
+.asosiy_qism .eightth-message .img8 img {
+    width: 100%;
+    height: 100%;
+}
+
+.asosiy_qism .eightth-message .heading8 {
+    float: right;
+    /* padding: 5px; */
+    border-bottom: 0.8px solid black;
+    /* vertical-align: top; */
+    text-align: center;
+    width: 50%;
+    height: 100%;
+    overflow: auto;
+}
+.asosiy_qism .eightth-message .heading8 a {
+    text-decoration: none;
+    color: black;
+    vertical-align: top;
+}
+
+.asosiy_qism .nineth-message {
+    margin-top: 30px;
+    width: 48%;
+    height: 154px;
+    float: right;
+    position: relative;
+}
+.asosiy_qism .nineth-message .img9 {
+    width: 48%;
+    height: 100%;
+    float: left;
+}
+.asosiy_qism .nineth-message .img9 img {
+    width: 100%;
+    height: 100%;
+}
+
+.asosiy_qism .nineth-message .heading9 {
+    float: right;
+    /* padding: 5px; */
+    border-bottom: 0.8px solid black;
+    /* vertical-align: top; */
+    text-align: center;
+    width: 50%;
+    height: 100%;
+    overflow: auto;
+}
+.asosiy_qism .nineth-message .heading9 a {
+    text-decoration: none;
+    color: black;
+    vertical-align: top;
+}
