@@ -1,2 +1,2 @@
-# firstworkasd.github.io
+# Doniyorbek Islomov
 First Work
